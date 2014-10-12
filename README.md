@@ -1,4 +1,4 @@
-swim.el
+swim.el - WIP
 =======
 
 A minor mode for Emacs to fulfill my sorting desires when programming. It's supposed to follow the DWIM approach, hence just Sort What I Mean.
